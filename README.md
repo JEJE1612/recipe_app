@@ -1,16 +1,20 @@
-# recipe_app
+App =>  Expensive Tracker
 
-A new Flutter project.
+Home section:
 
-## Getting Started
+![photo_2025-03-18_07-27-36](https://github.com/user-attachments/assets/dc286a10-1d8d-445d-b565-e7933a344c65)
 
-This project is a starting point for a Flutter application.
+cart section :
 
-A few resources to get you started if this is your first Flutter project:
+![photo_2025-03-18_07-27-51](https://github.com/user-attachments/assets/15b36282-883d-4c67-9d21-d89d4d9ad6fb)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+create category section :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![photo_2025-03-18_07-27-25](https://github.com/user-attachments/assets/cab47aa2-d7fd-4b16-a1fd-a2e63cbc88ff)
+
+
+choosie  color section :
+
+
+![photo_2025-03-18_07-31-17](https://github.com/user-attachments/assets/546ca6dc-9902-45fd-822f-348ac8510144)
